@@ -1,2 +1,1 @@
 INDEX VERSION 1.126+D:\Study\gnssm_android_codelab_junior\source\.metadata\.plugins\org.eclipse.jdt.core
-3365057117.index
